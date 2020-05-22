@@ -14,7 +14,7 @@ With the usage of this example HCL code you can build topology documented by dia
 
 ### STEP 1.
 
-Clone the repo from github by executing the command as follows and then go to terraform-oci-private-atp directory:
+Clone the repo from github by executing the command as follows and then go to terraform-oci-marketplace directory:
 
 ```
 [opc@terraform-server ~]$ git clone https://github.com/mlinxfeld/terraform-oci-maketplace.git
