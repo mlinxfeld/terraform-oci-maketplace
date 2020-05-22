@@ -19,11 +19,11 @@ Clone the repo from github by executing the command as follows and then go to te
 ```
 [opc@terraform-server ~]$ git clone https://github.com/mlinxfeld/terraform-oci-maketplace.git
 Cloning into 'terraform-oci-maketplace'...
-remote: Enumerating objects: 45, done.
-remote: Counting objects: 100% (45/45), done.
-remote: Compressing objects: 100% (31/31), done.
-remote: Total 45 (delta 19), reused 40 (delta 14), pack-reused 0
-Unpacking objects: 100% (45/45), done.
+remote: Enumerating objects: 21, done.
+remote: Counting objects: 100% (21/21), done.
+remote: Compressing objects: 100% (18/18), done.
+remote: Total 21 (delta 4), reused 20 (delta 3), pack-reused 0
+Unpacking objects: 100% (21/21), done.
 
 [opc@terraform-server ~]$ cd terraform-oci-maketplace/
 
